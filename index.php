@@ -48,7 +48,7 @@
             </div>
             <div class="content">
                 <div class="title mt-5">
-                    Bapuji Institute Of Engineering Technology
+                    Bapuji Institute Of Engineering Technology davangere
                 </div>
                 <p>Get everything on your fingertips</p>
                 <a href="chatroom.php"><button type="button">CHATBOX</button></a>
